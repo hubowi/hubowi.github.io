@@ -40,13 +40,13 @@ components:
     # 修改图片请替换 assets/images/qrcode.jpg
     qrcode:
         enabled: true
-        image_alt: 💪
+        image_alt: wechat
     # 维基索引页使用哪种视图，支持 列表（list）/分类（cate）
     wiki:
         view: cate
     # 图片灯箱效果功能
     fancybox:
-        enabled: false
+        enabled: true
 # 压缩页面内容
 compress_html:
   clippings: all
