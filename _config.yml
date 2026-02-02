@@ -11,7 +11,7 @@ keywords: 胡博威
 timezone: Asia/Shanghai
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2026
 # 源码仓库，请替换成自己的
 repository: hubowi/hubowi.github.io
 # 对 css 和 js 资源的 cdn 加速配置
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: hubowei
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: hubowi
+location: sichuan, China
+email: 162232359@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -120,9 +120,9 @@ index:
         # 首页 banner 区背景颜色
         background-color: "#4183c4"
         # 首页 banner 区背景图片
-        # background-image: "/assets/images/octicons-bg.png"
-        # background-repeat: "no-repeat"
-        # background-size: "cover"
+         background-image: "/assets/images/octicons-bg.png"
+         background-repeat: "no-repeat"
+         background-size: "cover"
 
 # ---------------- #
 #      Jekyll      #
