@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://hubowi.github.io
+url: https://www.hubowei.com
 date_format: "ordinal"
 title: 官网
 subtitle: "胡博威"
